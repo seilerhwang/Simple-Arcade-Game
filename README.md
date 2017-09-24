@@ -17,3 +17,7 @@ When you reach the water, you have won and will be brought back to the starting 
 
 When you win, you earn 100 points. You can replay as many times as you want, to collect the highest score.
 Once you lose, the score is reset to 0.
+
+Preview
+-------
+![screenshot](https://user-images.githubusercontent.com/32238868/30783295-d1276608-a140-11e7-9017-c9802f878bec.PNG)
